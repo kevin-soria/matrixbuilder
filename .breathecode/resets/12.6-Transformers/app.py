@@ -9,8 +9,3 @@ incomingAJAXData = [
 #Your code go here:
 
 
-
-transformedData = list(map(lambda person:  person["name"] + " " + person["lastName"],  incomingAJAXData))
-
-print(transformedData)
-

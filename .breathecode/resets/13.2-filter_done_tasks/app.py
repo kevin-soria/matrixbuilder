@@ -10,21 +10,6 @@ tasks = [
 	{ "label": 'Make a trip', "done": False }
 ]
 
-for x in tasks:
-    if x['done'] == True:
-        print(x)
-
-# print('asfasdf')
-
-# def undone_tasks(notdone):
- 
-#     new_dict = dict.items(notdone)
-#     return(new_dict[0][1]== False)
- 
-
-# resulting_tasks = list(filter(undone_tasks, tasks))
-
-# print(resulting_tasks)
 
 #Your code go here:
 
